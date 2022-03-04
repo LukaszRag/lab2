@@ -1,0 +1,62 @@
+import sys
+import math
+
+#zad1 - lista
+#lista=["tenis","pilka_nozna","siatkowka","hockey","golf",
+#        "wyscigi konne"]
+#for element in lista:
+#    print(element)
+#lista.reverse()
+#for element in lista:
+#    print(element)
+#lista.append("bieganie")
+#for element in lista:
+#    print(element)
+
+#zad2 - slownik
+#słownik={"np":"na przykład","itd":"i tak dalej","itp":"i tym podobne","dr":"doktor","mgr":"magister",}
+#print(słownik)
+
+#zad3 - slownik z grami
+#gry={"CDP":"Wiedźmin_3","Techland":"Dying_Light","Psyonix":"Rocket_League","Epic_games":"Fortnite"}
+#print(gry)
+
+#zad4 - pobiera zdanie
+#a = input("wpisz zdanie: ")
+#x=a.count("a")
+#print(x)
+
+#zad6 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#a = input("podaj liczbe a: ")
+#b = input("podaj liczbe b: ")
+#c = input("podaj liczbe c: ")
+#a=int(a)
+#b=int(b)
+#c=int(c)
+
+#zad7 - liczby do kwadratu
+#liczby=[1,1.2,3,4.5,10,12,5]
+#for x in liczby:
+#    print(x**2)
+
+#zad8 - while
+#lista = []  # pusta lista
+#lista_parzysta = []
+#i=0
+#while i < 10:
+#    if(i%2==0):
+#        lista.append(i)
+#        i+=1
+#    else:
+#        i += 1
+#print(lista)
+
+#zad9 - pierwiastek z liczby od użytkownika
+#a=input("Podaj wartosc do obliczenia pierwiastka z liczby")
+#a=int(a)
+#if (a < 0):
+#    print("Podales liczbe ujemna, musisz podac liczbe dodatnia")
+#else:
+#    print("Pierwiastek z liczby",a," wynosi ",math.sqrt(a))
+
+
